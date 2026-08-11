@@ -15,3 +15,23 @@ security / circuits / computers / books
 
 > status
 still debugging...
+<br>
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Parnia11235813/Parnia11235813/output/github-snake.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Parnia11235813/Parnia11235813/output/github-snake.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/Parnia11235813/Parnia11235813/output/github-snake.svg"
+    alt="GitHub contribution snake"
+  />
+</picture>
+
+</div>
