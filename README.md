@@ -1,16 +1,17 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Parnia11235813/Parnia11235813** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2800&pause=900&color=8FBC8F&center=true&vCenter=true&repeat=true&width=650&height=60&lines=01010000+01100001+01110010+01101110+01101001+01100001;electrical+engineer+%7C+security+enthusiast;still+debugging..." alt="Typing SVG" />
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+```text
+> whoami
+electrical engineer
+
+> interests
+security / circuits / computers / books
+
+> status
+still debugging...
